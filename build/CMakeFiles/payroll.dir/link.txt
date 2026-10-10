@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/payroll.dir/main.cpp.o CMakeFiles/payroll.dir/employee.cpp.o CMakeFiles/payroll.dir/manager.cpp.o CMakeFiles/payroll.dir/engineer.cpp.o CMakeFiles/payroll.dir/intern.cpp.o  -o payroll 

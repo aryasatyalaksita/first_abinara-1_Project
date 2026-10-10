@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arya/Downloads/linux folders shit and giggles/employee.cpp
+iostream
+-
+string
+-
+iomanip
+-
+employee.hpp
+/home/arya/Downloads/linux folders shit and giggles/employee.hpp
+utility
+-
+
+/home/arya/Downloads/linux folders shit and giggles/employee.hpp
+string
+-
+
+/home/arya/Downloads/linux folders shit and giggles/engineer.cpp
+iostream
+-
+string
+-
+iomanip
+-
+engineer.hpp
+/home/arya/Downloads/linux folders shit and giggles/engineer.hpp
+utility
+-
+
+/home/arya/Downloads/linux folders shit and giggles/engineer.hpp
+employee.hpp
+/home/arya/Downloads/linux folders shit and giggles/employee.hpp
+
+/home/arya/Downloads/linux folders shit and giggles/intern.cpp
+iostream
+-
+string
+-
+iomanip
+-
+intern.hpp
+/home/arya/Downloads/linux folders shit and giggles/intern.hpp
+utility
+-
+
+/home/arya/Downloads/linux folders shit and giggles/intern.hpp
+employee.hpp
+/home/arya/Downloads/linux folders shit and giggles/employee.hpp
+
+/home/arya/Downloads/linux folders shit and giggles/main.cpp
+iostream
+-
+manager.hpp
+/home/arya/Downloads/linux folders shit and giggles/manager.hpp
+engineer.hpp
+/home/arya/Downloads/linux folders shit and giggles/engineer.hpp
+intern.hpp
+/home/arya/Downloads/linux folders shit and giggles/intern.hpp
+
+/home/arya/Downloads/linux folders shit and giggles/manager.cpp
+iostream
+-
+string
+-
+iomanip
+-
+manager.hpp
+/home/arya/Downloads/linux folders shit and giggles/manager.hpp
+utility
+-
+
+/home/arya/Downloads/linux folders shit and giggles/manager.hpp
+employee.hpp
+/home/arya/Downloads/linux folders shit and giggles/employee.hpp
+

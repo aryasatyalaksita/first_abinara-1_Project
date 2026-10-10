@@ -1,0 +1,7 @@
+/home/arya/Downloads/linux folders shit and giggles/build/CMakeFiles/install/strip.dir
+/home/arya/Downloads/linux folders shit and giggles/build/CMakeFiles/install.dir
+/home/arya/Downloads/linux folders shit and giggles/build/CMakeFiles/list_install_components.dir
+/home/arya/Downloads/linux folders shit and giggles/build/CMakeFiles/rebuild_cache.dir
+/home/arya/Downloads/linux folders shit and giggles/build/CMakeFiles/edit_cache.dir
+/home/arya/Downloads/linux folders shit and giggles/build/CMakeFiles/install/local.dir
+/home/arya/Downloads/linux folders shit and giggles/build/CMakeFiles/payroll.dir
